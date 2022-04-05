@@ -1,0 +1,48 @@
+{
+    "textBody1": [
+        {
+            "textEng": "The dragon is having a hypo. Select suitable hypo treatments to help him feel better.",
+            "textCym": "Mae'r ddraig yn profi hypo. Dewiswch driniaethau hypo addas i'w helpu i deimlo'n well."
+        }
+    ],
+    "rounds": [
+        {
+            "roundRightEng": "Well done. Glucose drinks work quickly to increase the blood glucose level",
+            "roundWrongEng": "Oops. Chocolate contains fat and is digested too slowly to use as a hypo treatment",
+            "roundRightCym": "Da iawn. Mae diodydd glwcos yn gweithio'n gyflym i gynyddu lefel glwcos y gwaed",
+            "roundWrongCym": "Ŵps. Mae siocled yn cynnwys braster ac mae'n cael ei dreulio'n rhy araf i'w ddefnyddio fel triniaeth hypo",
+            "correctImgName": "round1_right",
+            "correctSound": "slurp",
+            "incorrectSound": "eating"
+
+        },
+        {
+            "roundRightEng": "Well done. Jelly Babies will work quickly to increase the blood glucose level",
+            "roundWrongEng": "Oops. Diet drinks don’t contain any sugar and aren’t suitable for treating a hypo",
+            "roundRightCym": "Da iawn. Bydd losin Jelly Babies yn gweithio'n gyflym i gynyddu lefel glwcos y gwaed",
+            "roundWrongCym": "Ŵps. Nid yw diodydd deiet yn cynnwys unrhyw siwgr ac nid ydynt yn addas ar gyfer trin hypo",
+            "correctImgName": "round2_right",
+            "correctSound": "eating",
+            "incorrectSound": "slurp"
+
+        },
+        {
+            "roundRightEng": "Well done. Glucose tablets work quickly to increase the blood glucose level",
+            "roundWrongEng": "Biscuits are digested too slowly to use as a hypo treatment",
+            "roundRightCym": "Da iawn. Mae tabledi glwcos yn gweithio'n gyflym i gynyddu lefel glwcos y gwaed",
+            "roundWrongCym": "Caiff bisgedi eu treulio'n rhy araf i'w defnyddio fel triniaeth hypo",
+            "correctImgName": "round3_right",
+            "correctSound": "eating",
+            "incorrectSound": "eating"
+        },
+        {
+            "roundRightEng": "Well done. Glucogel will work quickly to increase the blood glucose level",
+            "roundWrongEng": "Milk is digested too slowly to use as a hypo treatment",
+            "roundRightCym": "Da iawn. Bydd tiwb o gel glwcos yn gweithio'n gyflym i gynyddu lefel glwcos y gwaed",
+            "roundWrongCym": "Caiff llaeth ei dreulio'n rhy araf i'w ddefnyddio fel triniaeth hypo",
+            "correctImgName": "round4_right",
+            "correctSound": "eating",
+            "incorrectSound": "slurp"
+        }
+    ]
+}
